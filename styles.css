@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    background-color: #b2b2b2;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 120px;
+    padding-top: 30px;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+button {
+    margin: auto 880px;
+    width: 110px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+body{
+    background-color: #1e1e1e;
+    color: white;
+    text-align: center;
+}
+
+.dice__trigger{
+    font-size: 1rem;
+    padding-top: 1rem 1.2rem;
+    border-radius: 4px;
+    margin: 2rem 0 ;
+}
+
+.dice__trigger:hover{
+    opacity: 0.8;
+}
